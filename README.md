@@ -1,4 +1,4 @@
-# SQL Database Tasks README
+# SQL Database README
 
 This repository contains SQL scripts and instructions for various database tasks.
 
