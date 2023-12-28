@@ -112,3 +112,4 @@ INNER JOIN Courses C ON E.CourseID = C.CourseID
 GROUP BY ROLLUP((YEAR(EnrollmentDate), Department))
 ORDER BY AcademicYear, Department;
 END
+
