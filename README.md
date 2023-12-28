@@ -5,8 +5,8 @@ This repository contains SQL scripts and instructions for various database tasks
 ## Task 1: Database Creation or Restoration
 
 ### Instructions:
-1. Create a new database:
-- CREATE DATABASE UniversityDB;
+1. Create a new database:<br>
+CREATE DATABASE UniversityDB;
 
 2. Create Courses table<br>
  CREATE TABLE Students( <br>
